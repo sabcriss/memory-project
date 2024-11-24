@@ -1,1 +1,3 @@
-# memory-project
+# Memory Project
+
+### Game of memory
